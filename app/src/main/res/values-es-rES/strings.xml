@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">30 Days of Wellness</string>
+
+    <string name="alone_in_tokyo_1">Solo en Tokio</string>
+    <string name="alone_in_tokyo_vii_2">Solo en Tokio 2</string>
+    <string name="cliche_3">Cliché</string>
+    <string name="defender_4">Defensor</string>
+    <string name="dotonbori_5">Dotonbori</string>
+    <string name="false_kiva_6">Kiva false</string>
+    <string name="flame_nebula_7">Nebulosa de la llama</string>
+    <string name="grand_canyon_8">Grand Canyon</string>
+    <string name="grande_entrance_9">Gran entrada</string>
+    <string name="hues_10">Tonos</string>
+    <string name="lange_1_moon_phase_11">Largo 1 fase luna</string>
+    <string name="last_step_12">Ultimo paso</string>
+    <string name="longing_13">Anhelo</string>
+    <string name="lost_at_sea_14">Perdido en el mar</string>
+    <string name="marine_layers_15">Capas marinas</string>
+    <string name="photo_bomb_16">Foto bomba</string>
+    <string name="quit_night_17">Dejar de fumar en la noche</string>
+    <string name="rainbow_sunrise_18">Amanece arcoiris</string>
+    <string name="resource_ful_19">Lleno de recursos</string>
+    <string name="ressence_type_dark_20">Tipo de resencia oscuro</string>
+    <string name="ressence_type_tilt_21">Tipo de resencia inclinación</string>
+    <string name="rolling_hills_22">Rolling hills</string>
+    <string name="rosette_nebula_23">Nebulosa roseta</string>
+    <string name="round_trip_24">Ida y vuelta</string>
+    <string name="shelter_25">Refugio</string>
+    <string name="stroll_26">Paseo</string>
+    <string name="the_model_27">El modelo</string>
+    <string name="tunnel_vision_28">Visión de túnel</string>
+    <string name="two_worlds_29">Dos mundos</string>
+    <string name="under_water_30">Bajo el agua</string>
+    <string name="walking_contradiction_31">Contradicción andante</string>
+    <string name="zeitwerk_details_i_32">Detalles del zeitwerk i</string>
+
+    <string name="day_one">Dia 1</string>
+    <string name="day_two">Dia 2</string>
+    <string name="day_three">Dia 3</string>
+    <string name="day_four">Dia 4</string>
+    <string name="day_five">Dia 5</string>
+    <string name="day_six">Dia 6</string>
+    <string name="day_seven">Dia 7</string>
+    <string name="day_eight">Dia 8</string>
+    <string name="day_nine">Dia 9</string>
+    <string name="day_ten">Dia 10</string>
+    <string name="day_eleventh">Dia 11</string>
+    <string name="day_twelve">Dia 12</string>
+    <string name="day_thirteen">Dia 13</string>
+    <string name="day_fourteen">Dia 14</string>
+    <string name="day_fifteen">Dia 15</string>
+    <string name="day_sixteen">Dia 16</string>
+    <string name="day_seventeen">Dia 17</string>
+    <string name="day_eighteen">Dia 18</string>
+    <string name="day_nineteen">Dia 19</string>
+    <string name="day_twenty_one">Dia 21</string>
+    <string name="day_twenty_two">Dia 22</string>
+    <string name="day_twenty_three">Dia 23</string>
+    <string name="day_twenty_four">Dia 24</string>
+    <string name="day_twenty_five">Dia 25</string>
+    <string name="day_twenty_six">Dia 26</string>
+    <string name="day_twenty_seven">Dia 27</string>
+    <string name="day_twenty_eight">Dia 28</string>
+    <string name="day_twenty_nine">Dia 29</string>
+    <string name="day_thirty">Dia 30</string>
+</resources>

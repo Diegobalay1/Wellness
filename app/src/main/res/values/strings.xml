@@ -1,3 +1,67 @@
 <resources>
     <string name="app_name">30 Days of Wellness</string>
+
+    <string name="alone_in_tokyo_1">Alone in Tokio</string>
+    <string name="alone_in_tokyo_vii_2">Solo en Tokio 2</string>
+    <string name="cliche_3">Cliche</string>
+    <string name="defender_4">Defender</string>
+    <string name="dotonbori_5">Dotonbori</string>
+    <string name="false_kiva_6">False kiva</string>
+    <string name="flame_nebula_7">Flame nebula</string>
+    <string name="grand_canyon_8">Grand Canyon</string>
+    <string name="grande_entrance_9">Grand entrance</string>
+    <string name="hues_10">Hues</string>
+    <string name="lange_1_moon_phase_11">Lange 1 moon phase</string>
+    <string name="last_step_12">Last step</string>
+    <string name="longing_13">Longing</string>
+    <string name="lost_at_sea_14">Lost at sea</string>
+    <string name="marine_layers_15">Marine layers</string>
+    <string name="photo_bomb_16">Photo bomb</string>
+    <string name="quit_night_17">Quit night</string>
+    <string name="rainbow_sunrise_18">Rainbow sunrise</string>
+    <string name="resource_ful_19">Resource ful</string>
+    <string name="ressence_type_dark_20">Ressence type dark</string>
+    <string name="ressence_type_tilt_21">Ressence type tilt</string>
+    <string name="rolling_hills_22">Rolling hills</string>
+    <string name="rosette_nebula_23">Rosette nebula</string>
+    <string name="round_trip_24">Round trip</string>
+    <string name="shelter_25">Shelter</string>
+    <string name="stroll_26">Stroll</string>
+    <string name="the_model_27">The model</string>
+    <string name="tunnel_vision_28">Tunnel vision</string>
+    <string name="two_worlds_29">Two worlds</string>
+    <string name="under_water_30">Under water</string>
+    <string name="walking_contradiction_31">Walking contradiction</string>
+    <string name="zeitwerk_details_i_32">Zeitwerk details i</string>
+
+    <string name="day_one">Day 1</string>
+    <string name="day_two">Day 2</string>
+    <string name="day_three">Day 3</string>
+    <string name="day_four">Day 4</string>
+    <string name="day_five">Day 5</string>
+    <string name="day_six">Day 6</string>
+    <string name="day_seven">Day 7</string>
+    <string name="day_eight">Day 8</string>
+    <string name="day_nine">Day 9</string>
+    <string name="day_ten">Day 10</string>
+    <string name="day_eleventh">Day 11</string>
+    <string name="day_twelve">Day 12</string>
+    <string name="day_thirteen">Day 13</string>
+    <string name="day_fourteen">Day 14</string>
+    <string name="day_fifteen">Day 15</string>
+    <string name="day_sixteen">Day 16</string>
+    <string name="day_seventeen">Day 17</string>
+    <string name="day_eighteen">Day 18</string>
+    <string name="day_nineteen">Day 19</string>
+    <string name="day_twenty_one">Day 21</string>
+    <string name="day_twenty_two">Day 22</string>
+    <string name="day_twenty_three">Day 23</string>
+    <string name="day_twenty_four">Day 24</string>
+    <string name="day_twenty_five">Day 25</string>
+    <string name="day_twenty_six">Day 26</string>
+    <string name="day_twenty_seven">Day 27</string>
+    <string name="day_twenty_eight">Day 28</string>
+    <string name="day_twenty_nine">Day 29</string>
+    <string name="day_thirty">Day 30</string>
+
 </resources>
