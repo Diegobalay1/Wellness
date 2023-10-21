@@ -34,6 +34,39 @@
     <string name="walking_contradiction_31">Walking contradiction</string>
     <string name="zeitwerk_details_i_32">Zeitwerk details i</string>
 
+    <string name="alone_in_tokyo_1_desc">Alone in Tokio</string>
+    <string name="alone_in_tokyo_vii_2_desc">Solo en Tokio 2</string>
+    <string name="cliche_3_desc">Cliche</string>
+    <string name="defender_4_desc">Defender</string>
+    <string name="dotonbori_5_desc">Dotonbori</string>
+    <string name="false_kiva_6_desc">False kiva</string>
+    <string name="flame_nebula_7_desc">Flame nebula</string>
+    <string name="grand_canyon_8_desc">Grand Canyon</string>
+    <string name="grande_entrance_9_desc">Grand entrance</string>
+    <string name="hues_10_desc">Hues</string>
+    <string name="lange_1_moon_phase_11_desc">Lange 1 moon phase</string>
+    <string name="last_step_12_desc">Last step</string>
+    <string name="longing_13_desc">Longing</string>
+    <string name="lost_at_sea_14_desc">Lost at sea</string>
+    <string name="marine_layers_15_desc">Marine layers</string>
+    <string name="photo_bomb_16_desc">Photo bomb</string>
+    <string name="quit_night_17_desc">Quit night</string>
+    <string name="rainbow_sunrise_18_desc">Rainbow sunrise</string>
+    <string name="resource_ful_19_desc">Resource ful</string>
+    <string name="ressence_type_dark_20_desc">Ressence type dark</string>
+    <string name="ressence_type_tilt_21_desc">Ressence type tilt</string>
+    <string name="rolling_hills_22_desc">Rolling hills</string>
+    <string name="rosette_nebula_23_desc">Rosette nebula</string>
+    <string name="round_trip_24_desc">Round trip</string>
+    <string name="shelter_25_desc">Shelter</string>
+    <string name="stroll_26_desc">Stroll</string>
+    <string name="the_model_27_desc">The model</string>
+    <string name="tunnel_vision_28_desc">Tunnel vision</string>
+    <string name="two_worlds_29_desc">Two worlds</string>
+    <string name="under_water_30_desc">Under water</string>
+    <string name="walking_contradiction_31_desc">Walking contradiction</string>
+    <string name="zeitwerk_details_i_32_desc">Zeitwerk details i</string>
+
     <string name="day">Day</string>
 
     <string name="day_one">Day 1</string>
@@ -55,6 +88,7 @@
     <string name="day_seventeen">Day 17</string>
     <string name="day_eighteen">Day 18</string>
     <string name="day_nineteen">Day 19</string>
+    <string name="day_twenty">Día 20</string>
     <string name="day_twenty_one">Day 21</string>
     <string name="day_twenty_two">Day 22</string>
     <string name="day_twenty_three">Day 23</string>
@@ -65,5 +99,10 @@
     <string name="day_twenty_eight">Day 28</string>
     <string name="day_twenty_nine">Day 29</string>
     <string name="day_thirty">Day 30</string>
+
+    <string name="loading">Loading..</string>
+    <string name="connection_error">Connection Error..</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
 
 </resources>
