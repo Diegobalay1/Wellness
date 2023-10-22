@@ -10,8 +10,6 @@ interface WellnessRepository  {
 
 class WellnessLocalRepository : WellnessRepository {
     override suspend fun getAllItems(): List<Curiosity> {
-        // FIXME: You will have to return a list of curiosities.
-        //return listOf()
         return WellnessLocal.wellness
     }
 
@@ -49,5 +47,17 @@ object WellnessLocal {
             imgRes = R.drawable.dotonbori,
             description = R.string.dotonbori_5_desc
         ),
+        Curiosity(
+            day = R.string.day_six,
+            title = R.string.false_kiva_6,
+            imgRes = R.drawable.false_kiva,
+            description = R.string.false_kiva_6_desc
+        ),
+        Curiosity(
+            day = R.string.day_seven,
+            title = R.string.flame_nebula_7,
+            imgRes = R.drawable.flame_nebula,
+            description = R.string.flame_nebula_7_desc
+        )
     )
 }
